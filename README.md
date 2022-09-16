@@ -1,12 +1,5 @@
 - ## sobre mim
 - 👋 ola, eu sou a @poliana2022
 - Meu email de contato é coelho.poliana@escola.pr.gov.br
-- 👀 Eu estou enteressada aprender mais...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-poliana2022/poliana2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Eu estou enteressada aprender mais sobre conputadores
+- 🌱 eu estou aprendendo a progamar a linguagem javascript e scatch 
